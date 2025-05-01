@@ -1,0 +1,1 @@
+worker: python max_freelance_bot.py
