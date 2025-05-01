@@ -1,1 +1,1 @@
-worker: python max_freelance_bot.py
+python max_freelance_bot.py
